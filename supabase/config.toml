@@ -1,0 +1,7 @@
+project_id = "lrcchcxphxltbetlecbf"
+
+[functions.humanize]
+verify_jwt = false
+
+[functions.generate-email]
+verify_jwt = false
